@@ -12,7 +12,6 @@ Interactive Tableau dashboard analyzing how NBA basketball has evolved over 37 y
 - Strong correlation between points per game and player efficiency (PER)
 
 ## Tools Used
-- Python (pandas) — data cleaning
 - Tableau Public — visualization
 
 ## Data Source
